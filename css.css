@@ -1,6 +1,11 @@
+h1 {
+	text-align: center;
+	color: #77aaaa;
+}
 .button {
 	display: block;
-	width: 100%;
+	width: 40%;
+	margin: 0px auto;
 	padding: 2px;
 	border: 1px solid #77aaaa;
 	font-family: arial;
